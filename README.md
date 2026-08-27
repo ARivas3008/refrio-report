@@ -41,6 +41,11 @@ Proyecto <br>
     
 # Registro de Versiones del Informe
 
+<div style="text-align: center;">
+    <table style="margin: 0 auto; display: inline-table;">
+        <tr><th>Versión</th><th>Fecha</th><th>Autor</th><th>Descripción</th></tr>
+        <tr><th>U20241F027</th><th>Alca Morán, César Alejandro</th></tr>
+    </table>
 </div>
 
 # Project Report Collaboration Insights
