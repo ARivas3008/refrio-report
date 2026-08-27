@@ -52,7 +52,7 @@ Proyecto <br>
 <div align="left">
 
 # Project Report Collaboration Insights
-Repositorio de GitHub: [Proyecto](eee)
+Repositorio de GitHub: [Proyecto](https://github.com/upc-pre-202620-1asi0729-7747-refrio/refrio-report.git)
 
 <div align="left">
     
