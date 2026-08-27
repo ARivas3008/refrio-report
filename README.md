@@ -38,9 +38,11 @@ Proyecto <br>
 
 
 <div align="left">
+    
 # Registro de Versiones del Informe
 
 </div>
+
 # Project Report Collaboration Insights
 
 
