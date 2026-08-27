@@ -51,7 +51,8 @@ Proyecto <br>
 
 # Project Report Collaboration Insights
 
-
+<div align="left">
+    
 # Contenido
 
 
@@ -148,6 +149,7 @@ Proyecto <br>
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+</div>
 
 ---
 
